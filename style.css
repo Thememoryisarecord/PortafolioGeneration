@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(212, 225, 253) !important;
+}
+
+
+
+#Inicio {
+  text-align: center;
+}
+
+#Inicio img {
+  width: 250px;
+  height: 300px;
+  margin: 20px;
+  border-radius: 50%;
+}
+
+#aboutMe {
+  text-align: left;
+  margin: 20px;
+}
+
+#educación {
+  margin: 20px;
+}
+
+#proyectos {
+  margin: 20px;
+}
+
+#contacto {
+  margin: 20px;
+}
+
+h3 {
+  text-align: left;
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+}
+
+#first-title {
+  text-align: center;
+
+}
